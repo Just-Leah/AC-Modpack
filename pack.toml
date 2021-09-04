@@ -1,0 +1,15 @@
+name = "Autcraft Modpack"
+author = "Stonewall0210"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6b0da9da355de25abbe7193591e96475c76544b95ca7a69037f1de0d04b8fd4b"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.17.1"
+
+[options]
+acceptable-game-versions = ["1.17"]

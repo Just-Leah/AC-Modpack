@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "c5797709859b36f2dcf6d5a97bfe618cf43ee2594f5bfe2ff71bb04ec066c13c"
+metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "00b8b522c80ea391ab2aadd3eb900a53afc9dd19e2e09159b81f0eafeaf71b18"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+metafile = true
+
+[[files]]
+file = "mods/optifabric.toml"
+hash = "3c32239af452964375e9e16fcc083929b2b87acea41859c9962219b7a34d0ade"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.toml"
+hash = "03513e8cb0733173daefc5b87a60463b26156556d25d0c08bfcf6dcd4eed0268"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "cdfe09fad2c663d9164a6b8bf927c0f105c429e24a138b71ca7af13929ea1e94"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "3a6719974295155034b1db7c6a57f57eee0bc63fd19dec84ec705b8404dbf7ec"
+metafile = true

@@ -1,0 +1,19 @@
+name = "Xaero's Minimap (Full version)"
+filename = "Xaeros_Minimap_21.16.0_Fabric_1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3438/624/Xaeros_Minimap_21.16.0_Fabric_1.17.1.jar"
+hash-format = "murmur2"
+hash = "305562451"
+
+[update]
+[update.curseforge]
+file-id = 3438624
+project-id = 263420
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "WARNING: This is the full version of the mod, with some extra features like mob radar and cave mapping. I've seen some people use the full version, but I recommend either checking with an admin, or using the 'Fair-Play Edition'.\n\nThis is Corresponding mod to the minimap portion of Journey Map on the Approved Mods list, as there is no Fabric version.\nThis is simply, a minimap mod. I'm sure most people know what a minimap is by now.\n\nREQUIRES:\n- Fabric API\n\nCan be used with:\n- Xaero's World Map (The two maps use the same cache and waypoint system, and work together well. You can do one or the other, but I recommend both)\n\nIncompatible with:\n- Xaero's Minimap Fair-play Edition (They are the same mod basically)"

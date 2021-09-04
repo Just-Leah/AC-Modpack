@@ -1,0 +1,6 @@
+.git/**
+.gitattributes
+.gitignore
+packwiz-installer-bootstrap.jar
+packwiz.exe
+README.md
