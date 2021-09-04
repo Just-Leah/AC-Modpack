@@ -2,32 +2,32 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
+hash = "90c4fa1c55522f3fe39bab1ade0dd13f281e3f8e1a1f23c2f64022b9c4b0e34c"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+hash = "7aeb1f58dac969db8e3f67e92260b576468dc396a94ad64355402d08b821abcb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "c5797709859b36f2dcf6d5a97bfe618cf43ee2594f5bfe2ff71bb04ec066c13c"
+hash = "ad856374e9c5b04ce4c058b0c3f339f5e97db17b767aa4cb1285fb3667708524"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "00b8b522c80ea391ab2aadd3eb900a53afc9dd19e2e09159b81f0eafeaf71b18"
+hash = "f8ca2d9e262774adad33a0693144636d65f62c96f6a19efd89fbe313d0a9d9af"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+hash = "dad0b5df620e737a72a265772809419e5fccb0b796ea45e46b5c1357d007f3c5"
 metafile = true
 
 [[files]]
 file = "mods/optifabric.toml"
-hash = "3c32239af452964375e9e16fcc083929b2b87acea41859c9962219b7a34d0ade"
+hash = "f9b8eb9536c66b5ac703cff0752c5012aa9de47911adeeb771f6b6178569c1bc"
 metafile = true
 
 [[files]]
@@ -37,20 +37,20 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
+hash = "0956597a8ba9ff7fbbfbe74a04101b12eed9403a82d240a2e141d4de5f26cf03"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.toml"
-hash = "03513e8cb0733173daefc5b87a60463b26156556d25d0c08bfcf6dcd4eed0268"
+hash = "f7bf1d1e1a048c357afa6db920e5b3b5bcd7de7fcb536c6e1121ca1f2d8a3d1d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "cdfe09fad2c663d9164a6b8bf927c0f105c429e24a138b71ca7af13929ea1e94"
+hash = "8da4fa525a5a49b0dd2fca290349e39d4a6c1a4335017b41eaf17a4ca7ba6032"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "3a6719974295155034b1db7c6a57f57eee0bc63fd19dec84ec705b8404dbf7ec"
+hash = "f94aa8db3b6e201821b86abc6f795547e2b2a1e7f673a3d439ab0ff26c40c261"
 metafile = true
