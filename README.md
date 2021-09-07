@@ -1,19 +1,21 @@
 <!--
 @format
-cSpell:word Autcraft Architectury Optifabric Optifine Xaero
+cSpell:word Autcraft Architectury Optifabric Optifine Xaero DFU
 -->
 
 # AC-Modpack
 
-Modpack for Autcraft that tries it's hardest to follow the approved mod list. Current version is `0.2.0`
+Modpack for Autcraft that tries it's hardest to follow the approved mod list. Current version is `0.2.1`
 
 ## Mod list
 
 This is the current list of mods that are on the modpack.
 
 - [Iris](https://modrinth.com/mod/iris)
+- [LazyDFU](https://modrinth.com/mod/lazydfu)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [ModMenu](https://modrinth.com/mod/modmenu)
+- [OkZoomer](https://modrinth.com/mod/ok-zoomer)
 - [Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) ([Optifine](https://optifine.net/home))
 - [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 - [Sodium](https://modrinth.com/mod/sodium)
