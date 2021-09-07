@@ -26,6 +26,11 @@ hash = "dad0b5df620e737a72a265772809419e5fccb0b796ea45e46b5c1357d007f3c5"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.toml"
+hash = "26674292de07356e36780c42fc4f7aa4849c406dce837d9a4dd1ee21a4a7e6b5"
+metafile = true
+
+[[files]]
 file = "mods/optifabric.toml"
 hash = "f9b8eb9536c66b5ac703cff0752c5012aa9de47911adeeb771f6b6178569c1bc"
 metafile = true
