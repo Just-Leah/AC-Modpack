@@ -17,7 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "c6ae67c9c302e413354414b29754dc4e3a7883f5da519aacc886fc103c7324c0"
+hash = "45c71e4358671afc1c7914a7f0e2aa02bf980b84545a657587fa9290daeef890"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "05568f19fc07293da161ded8f242b209af276ac6badf221e886b672c8df4add8"
 metafile = true
 
 [[files]]

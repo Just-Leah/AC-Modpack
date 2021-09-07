@@ -13,5 +13,6 @@ mod-id = "YL57xq9U"
 version = "YwBoFV6P"
 
 [option]
+default = false
 optional = true
 description = "Iris allows support for Optifine shaders without Optifine. This mod is less likely to cause imcompatibilities with mods, and uses Sodium for better performance than Optifine, with the trade off of less-than-optimal compatibility with Optifine shaders. Basically, it works good enough for most people, but isn't completely perfect.\nIncompatible with:\n- Sodium (Sodium is supplied with this mod, there is no need to select them both)\n- Optifine (Sodium is incompatible with Optifine, and never will be compatible. Also why'd you want to use Optifine and Iris at the same time?)"
