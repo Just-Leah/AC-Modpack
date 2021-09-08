@@ -5,7 +5,7 @@ cSpell:word Autcraft Architectury Optifabric Optifine Xaero DFU
 
 # AC-Modpack
 
-Modpack for Autcraft that tries it's hardest to follow the approved mod list. Current version is `0.2.1`
+Modpack for Autcraft that tries it's hardest to follow the approved mod list. Current version is `0.2.2`
 
 ## Mod list
 
