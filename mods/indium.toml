@@ -1,0 +1,17 @@
+name = "Indium"
+filename = "indium-1.0.0+mc1.17.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.17.1/indium-1.0.0+mc1.17.1.jar"
+hash-format = "sha512"
+hash = "f44c85388430e5483a2370191f6c57626d950cb3f6fda32e9209b1c2d79ef51c2f35d12b13fb50b56ebb0215f431c48ad639fc57bece51ef79a7c20014525326"
+
+[update]
+[update.modrinth]
+mod-id = "Orvt0mRa"
+version = "uTvfCUBM"
+
+default = false
+optional = true
+description = "Allows certain mods to function with sodium installed.\nLong explanation: fabric implements it's own rendering API, that some mods use. Optifine can conflict with that API, and some mods are deemed incompatible. Sodium also conflicts, as it overwrites the implemenation to improve performance. Indium adds this back, and allows the mods that broke to work again, but only with Sodium. This does nothing for optifine, nor will it do anything without sodium."

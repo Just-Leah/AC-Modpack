@@ -1,0 +1,17 @@
+name = "Dynamic FPS"
+filename = "dynamic-fps-2.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.5/dynamic-fps-2.0.5.jar"
+hash-format = "sha512"
+hash = "84135f5da20608c732ac90439dd7929dcf61cc6471667e5c8842466ec0cbfdf3199d8dc2cdb2088b5ba76cde55c5df015989b00376d6be65c4b8a1c1d3b13be7"
+
+[update]
+[update.modrinth]
+mod-id = "LQ3K71Q1"
+version = "RgJGw0dO"
+
+default = false
+optional = true
+description = "Caps the framerate of the game to 1 FPS while tabbed out to avoid Minecraft consuming all the RAM while you do other things."

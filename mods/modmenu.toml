@@ -1,18 +1,17 @@
 name = "Mod Menu"
-filename = "modmenu-2.0.10.jar"
+filename = "modmenu-2.0.12.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/2.0.10/modmenu-2.0.10.jar"
+url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/2.0.12/modmenu-2.0.12.jar"
 hash-format = "sha512"
-hash = "9c65fbafe8eabc1949d050f76cb0cf05b9a1fcdb98e4f738609ce19434c7960c1fcb1d2a5390b8f7df74c06346963b19fef9683b0f2b1fcb0e508cd7dd204a5f"
+hash = "5d7f921acd3712b7db606e273fbfe73bee532b63858be844e7d3659b71cc533d8580d2c28dc264df8ac1382452873ec3d1b11e3411377c1aa5bccc1c9fab332c"
 
 [update]
 [update.modrinth]
 mod-id = "mOgUt4GM"
-version = "XtL1i60M"
+version = "9xECQHnM"
 
 [option]
-default = false
 optional = true
 description = "Displays the mods you have installed, like Forge does, and lets you edit the configs of many mods. Must have in my opinion."

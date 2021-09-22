@@ -11,13 +11,38 @@ hash = "7aeb1f58dac969db8e3f67e92260b576468dc396a94ad64355402d08b821abcb"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.toml"
+hash = "3f631c9e944a855a409158820f38aba9f587fb829a45351958b18de45118b2dc"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
-hash = "ad856374e9c5b04ce4c058b0c3f339f5e97db17b767aa4cb1285fb3667708524"
+hash = "501de0fa2cd503fa0069b1d5a925aad95d3793c438b5d3ac67ef5ecf2d904752"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
 hash = "45c71e4358671afc1c7914a7f0e2aa02bf980b84545a657587fa9290daeef890"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "374c4eb4d5733928e6a3aed28625bb28f6e2bcb1f17a2077577ab555e2b37c94"
 metafile = true
 
 [[files]]
@@ -32,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "26674292de07356e36780c42fc4f7aa4849c406dce837d9a4dd1ee21a4a7e6b5"
+hash = "68c19b8a5c08f71b01af131bd33d1fdc343cd3266cb8420e29bc873dc6bc99bc"
 metafile = true
 
 [[files]]

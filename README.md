@@ -5,13 +5,18 @@ cSpell:word Autcraft Architectury Optifabric Optifine Xaero DFU
 
 # AC-Modpack
 
-Modpack for Autcraft that tries it's hardest to follow the approved mod list. Current version is `0.2.2`
+Modpack for Autcraft that tries it's hardest to follow the approved mod list. Current version is `0.3.0`
 
 ## Mod list
 
 This is the current list of mods that are on the modpack.
 
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe)
+- [Indium](https://modrinth.com/mod/indium)
 - [Iris](https://modrinth.com/mod/iris)
+- [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [ModMenu](https://modrinth.com/mod/modmenu)
