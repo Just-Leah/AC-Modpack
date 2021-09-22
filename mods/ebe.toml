@@ -12,6 +12,7 @@ hash = "1ed90636fe89e53ee46fff6505b3a7a622a5613e04aef872f30d7dc3f758995c4a5c55c6
 mod-id = "OVuFYfre"
 version = "ILuyoK6c"
 
+[option]
 default = false
 optional = true
 description = "Optimises the rendering for chests, signs, beds, and other blocks that cause lag like this.\nImpomatibile with Optifine"

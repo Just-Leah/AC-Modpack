@@ -12,6 +12,7 @@ hash = "84135f5da20608c732ac90439dd7929dcf61cc6471667e5c8842466ec0cbfdf3199d8dc2
 mod-id = "LQ3K71Q1"
 version = "RgJGw0dO"
 
+[option]
 default = false
 optional = true
 description = "Caps the framerate of the game to 1 FPS while tabbed out to avoid Minecraft consuming all the RAM while you do other things."

@@ -12,6 +12,7 @@ hash = "798c753adac190d945cc9838c12ee3af9812ccb8b0ba28da5e77949279906182174e51c5
 mod-id = "2Uev7LdA"
 version = "6KQ1zcVH"
 
+[option]
 default = false
 optional = true
 description = "Ports the Better Grass feature from Optifine to sodium installs.\nIncompatible with optifine\nIf you use with sodium you also need to use indium"
