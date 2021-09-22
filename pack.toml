@@ -1,6 +1,6 @@
 name = "Autcraft Modpack"
 author = "Stonewall0210"
-version = "0.3.0"
+version = "0.3.2"
 
 [index]
 file = "index.toml"
