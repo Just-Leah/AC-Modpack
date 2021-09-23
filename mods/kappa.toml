@@ -1,0 +1,18 @@
+name = "Kappa"
+filename = "kappa-3.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2wsNAbi3/versions/3.0.0/kappa-3.0.0.jar"
+hash-format = "sha512"
+hash = "c47d1421c7e35e4129bdac97172f1a6a2f1f960dfdd392e2d5e9a25939d5933388c7c0fabbb44fbceaac18f9b024a06e94070667664d55d28dbe44c15436cefe"
+
+[update]
+[update.modrinth]
+mod-id = "2wsNAbi3"
+version = "g9hgkCt2"
+
+[option]
+default = false
+optional = true
+description = "Allows you to see optifine capes without needing optifine. Some people have a cape that they want to keep, and this allows for that."

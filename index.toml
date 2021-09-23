@@ -36,6 +36,11 @@ hash = "45c71e4358671afc1c7914a7f0e2aa02bf980b84545a657587fa9290daeef890"
 metafile = true
 
 [[files]]
+file = "mods/kappa.toml"
+hash = "cb31e7b43f695159333be9df0fff9e29070ab40cc20e6a8c2997edb5d7bef7b1"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "1521d76dd6565aaeab451a650a55a59e9c971ff1c4163038ef707b63bdfa1a7b"
 metafile = true
