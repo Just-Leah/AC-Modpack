@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "90c4fa1c55522f3fe39bab1ade0dd13f281e3f8e1a1f23c2f64022b9c4b0e34c"
+hash = "2b85dd98c2090086ab9a4e470db45f3c4c7c89b62623ff53c815dfa0d420a4d6"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "501de0fa2cd503fa0069b1d5a925aad95d3793c438b5d3ac67ef5ecf2d904752"
+hash = "95b0027c87a7ceb36cec12d8ebdeac5024964528d9ef3fdeb964f2d11f88fc66"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "68c19b8a5c08f71b01af131bd33d1fdc343cd3266cb8420e29bc873dc6bc99bc"
+hash = "fff887f7a2652926ac5a651ffa52c79f2ffe15c11450681cfffec5ca567a3907"
 metafile = true
 
 [[files]]
@@ -87,15 +87,15 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.toml"
-hash = "f7bf1d1e1a048c357afa6db920e5b3b5bcd7de7fcb536c6e1121ca1f2d8a3d1d"
+hash = "837a51a979aa113c020f866eccf5ac6af2142fa3c003fc5770163d6655e3af96"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "8da4fa525a5a49b0dd2fca290349e39d4a6c1a4335017b41eaf17a4ca7ba6032"
+hash = "c8687d94a55f5e3f568e1d775d405545d93c7f927fde356b5fe5e431c6d8109b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "f94aa8db3b6e201821b86abc6f795547e2b2a1e7f673a3d439ab0ff26c40c261"
+hash = "a82dc464265d731cf3429aec7ceda82289a35c277afe5bfa35e1e4bcb000f6fd"
 metafile = true

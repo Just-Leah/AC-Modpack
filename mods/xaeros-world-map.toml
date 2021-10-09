@@ -1,19 +1,18 @@
 name = "Xaero's World Map"
-filename = "XaerosWorldMap_1.17.0_Fabric_1.17.1.jar"
+filename = "XaerosWorldMap_1.17.2_Fabric_1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3443/619/XaerosWorldMap_1.17.0_Fabric_1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3484/791/XaerosWorldMap_1.17.2_Fabric_1.17.1.jar"
 hash-format = "murmur2"
-hash = "753453964"
+hash = "478277046"
 
 [update]
 [update.curseforge]
-file-id = 3443619
+file-id = 3484791
 project-id = 317780
 release-channel = "beta"
 
 [option]
-default = false
 optional = true
 description = "This is Corresponding mod to the world map portion of Journey Map on the Approved Mods list, as there is no Fabric version.\nThis mod adds a world map which can be opened by pressing `m`, and shows a scrollable map of the world you are in (the only limit is your exploration). This also includes waypoints set using Xaero's Minimap.\n\nREQUIRES:\n- Fabric API\n\nCan be used with:\n- Xaero's Minimap: Full and Fair-play (The two maps use the same cache and waypoint system, and work together well. You can do one or the other, but I recommend both)"
