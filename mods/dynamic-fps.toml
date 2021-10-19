@@ -15,4 +15,4 @@ version = "RgJGw0dO"
 [option]
 default = false
 optional = true
-description = "Caps the framerate of the game to 1 FPS while tabbed out to avoid Minecraft consuming all the RAM while you do other things."
+description = "Renders Minecraft at 1fps (or not at all) when the Minecraft window isn't focused, as well as improving background performance."

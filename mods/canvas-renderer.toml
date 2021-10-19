@@ -1,0 +1,20 @@
+name = "Canvas Renderer"
+filename = "canvas-mc117-1.17-1.0.2035.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3464/66/canvas-mc117-1.17-1.0.2035.jar"
+hash-format = "murmur2"
+hash = "1681645573"
+
+[update]
+[update.curseforge]
+file-id = 3464066
+project-id = 318440
+release-channel = "beta"
+
+
+[option]
+default = false
+optional = true
+description = "An alternative shader and optimisation mod, incompatible with Sodium and Iris."

@@ -15,4 +15,4 @@ version = "uTvfCUBM"
 [option]
 default = false
 optional = true
-description = "Allows certain mods to function with sodium installed.\nLong explanation: fabric implements it's own rendering API, that some mods use. Optifine can conflict with that API, and some mods are deemed incompatible. Sodium also conflicts, as it overwrites the implemenation to improve performance. Indium adds this back, and allows the mods that broke to work again, but only with Sodium. This does nothing for optifine, nor will it do anything without sodium."
+description = "An addon mod for Sodium adding Fabric Rendering API compatibility (which is required for some of the mods in the pack and makes them work with Sodium)."

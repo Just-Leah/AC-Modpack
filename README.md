@@ -1,36 +1,19 @@
 <!--
 @format
-cSpell:word Autcraft Architectury Optifabric Optifine Xaero DFU
+cSpell:word Autcraft HAHAHAHAHAHAHAHAHAHAHA
 -->
 
 # AC-Modpack
 
-Modpack for Autcraft that ~~tries it's hardest to follow~~ follows the approved mod list. Current version is `0.5.0`
+Modpack for Autcraft that ~~tries it's hardest to follow~~ follows the approved mod list. Current version is [1.0.0](#changelogs)
 
 ## Mod list
 
-This is the current list of mods that are on the modpack.
-
-- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
-- [Enhanced Block Entities](https://modrinth.com/mod/ebe)
-- [Indium](https://modrinth.com/mod/indium)
-- [Iris](https://modrinth.com/mod/iris)
-- [Kappa](https://modrinth.com/mod/kappa)
-- [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
-- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
-- [LazyDFU](https://modrinth.com/mod/lazydfu)
-- [Lithium](https://modrinth.com/mod/lithium)
-- [ModMenu](https://modrinth.com/mod/modmenu)
-- [OkZoomer](https://modrinth.com/mod/ok-zoomer)
-- [Sodium](https://modrinth.com/mod/sodium)
-- [Xaero's Minimap (Fairplay Edition)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition)
-- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+See [Approved Mod List](https://www.autcraft.com/wiki/m/34575523/page/Approved_Mods), most of the updated fabric mods are here. If any are missing, feel free to ask why.
 
 ### Library List
 
-This is the libraries/dependencies of mods that are in the modpack. These often do not add anything on their own, and as such will not have links attached to them. If you want me to add links to them, I would be happy to do so.
-
-- Fabric API
+Any mod that is described as being a library mod. Recommended to download.
 
 ## Installation Instructions
 
@@ -42,3 +25,15 @@ This is the libraries/dependencies of mods that are in the modpack. These often 
 6. Select the mods you want to download, and then click ok.
 7. It will then load the game with the mods installed.
 8. **S T O N K S**
+
+## Changelogs
+
+### 1.0.0: Release
+
+So I finally did it. After a few months of waiting for the mod list to be updated it got updated a week before writing this, and now I have updated the modpack I've been working on in the background. It should have most of the mods on it, and it shouldn't have any problems, but if anything is wrong don't hesitate to contact me about it.
+
+<details>
+  <summary>Past Changelogs</summary>
+  
+  You fool, there is no past changelogs. Now you're stuck here forever! HAHAHAHAHAHAHAHAHAHAHA!
+</details>

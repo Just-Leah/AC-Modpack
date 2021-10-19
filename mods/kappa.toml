@@ -15,4 +15,4 @@ version = "g9hgkCt2"
 [option]
 default = false
 optional = true
-description = "Allows you to see optifine capes without needing optifine. Some people have a cape that they want to keep, and this allows for that."
+description = "Lets you see OptiFine capes without using OptiFine."

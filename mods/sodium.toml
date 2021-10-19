@@ -15,4 +15,4 @@ version = "xuWxRZPd"
 [option]
 default = false
 optional = true
-description = "If you only use Optifine for the performance boost, don't use Optfine; use Sodium. Sodium basically achives the same effect, but has the added bonus of:\n1. Increase performance a whole lot more than Optifine (depending on your computer)\n2. Doesn't break as many mods.\nThe extra performance from Sodium is very much worth missing out on the 1 or 2 Optifine features that don't have fabric alternatives.\n\nIncompatible with:\n- Iris (Sodium is included in Iris)\n- Optifine (Sodiums method of performance improvments will break with Optifine, and there is no reason for you to use Optfine if you have Sodium)"
+description = "Rendering engine and client-side optimisation mod, usually even better than OptiFine."

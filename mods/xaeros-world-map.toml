@@ -15,4 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
-description = "This is Corresponding mod to the world map portion of Journey Map on the Approved Mods list, as there is no Fabric version.\nThis mod adds a world map which can be opened by pressing `m`, and shows a scrollable map of the world you are in (the only limit is your exploration). This also includes waypoints set using Xaero's Minimap.\n\nREQUIRES:\n- Fabric API\n\nCan be used with:\n- Xaero's Minimap: Full and Fair-play (The two maps use the same cache and waypoint system, and work together well. You can do one or the other, but I recommend both)"
+description = "Map mod that works with Xaero's Minimap. They map out the area around you in real-time and let you set waypoints to remember locations. Do not use this in competitive minigames such as bed wars and H&S."

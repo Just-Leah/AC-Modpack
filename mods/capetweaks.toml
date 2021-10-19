@@ -1,0 +1,18 @@
+name = "CapeTweaks"
+filename = "capetweaks-0.3.0-alpha.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PIG91bQ2/versions/0.3.0-alpha/capetweaks-0.3.0-alpha.jar"
+hash-format = "sha512"
+hash = "fbb8306efdf9387e3880158aee085c051287efe667e015cc183f3d28f055153c1c6c2bde345e0ca7e2ccd4b9ce4211ad24ed66f9691ecb20266be5e6864ab85b"
+
+[update]
+[update.modrinth]
+mod-id = "PIG91bQ2"
+version = "tyHBWK7X"
+
+[option]
+default = false
+optional = true
+description = "Allows you to disable capes and slightly modify how they behave."

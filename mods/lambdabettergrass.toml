@@ -15,4 +15,4 @@ version = "6KQ1zcVH"
 [option]
 default = false
 optional = true
-description = "Ports the Better Grass feature from Optifine to sodium installs.\nIncompatible with optifine\nIf you use with sodium you also need to use indium"
+description = "Recreates OptiFine's better grass and snow features but with extra customisation."

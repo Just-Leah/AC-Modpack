@@ -15,4 +15,4 @@ version = "ILuyoK6c"
 [option]
 default = false
 optional = true
-description = "Optimises the rendering for chests, signs, beds, and other blocks that cause lag like this.\nImpomatibile with Optifine"
+description = "Improves performance (and slightly visuals) by rendering block entities (such as beds and chests) as normal blocks unless they need to animate (such as when opening a chest)."

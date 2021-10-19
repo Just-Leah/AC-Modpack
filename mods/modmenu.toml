@@ -14,4 +14,4 @@ version = "3CD6YUw1"
 
 [option]
 optional = true
-description = "Displays the mods you have installed, like Forge does, and lets you edit the configs of many mods. Must have in my opinion."
+description = "Adds a \"Mods\" button and provides a list of mods and a way to access their configs in-game."
