@@ -1,11 +1,11 @@
 name = "Autcraft Modpack"
 author = "Stonewall0210"
-version = "0.4.1"
+version = "0.5.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7327b31c072d88f06f598b55518fe0455e014a14981f3b985a1346520fab38b3"
+hash = "df640c003cbc4408dc5ec1a4e8bad0c3644ed35394f36d4dd4d07ac69c378910"
 
 [versions]
 fabric = "0.11.6"

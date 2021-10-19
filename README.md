@@ -5,7 +5,7 @@ cSpell:word Autcraft Architectury Optifabric Optifine Xaero DFU
 
 # AC-Modpack
 
-Modpack for Autcraft that tries it's hardest to follow the approved mod list. Current version is `0.4.1`
+Modpack for Autcraft that ~~tries it's hardest to follow~~ follows the approved mod list. Current version is `0.5.0`
 
 ## Mod list
 
@@ -22,18 +22,14 @@ This is the current list of mods that are on the modpack.
 - [Lithium](https://modrinth.com/mod/lithium)
 - [ModMenu](https://modrinth.com/mod/modmenu)
 - [OkZoomer](https://modrinth.com/mod/ok-zoomer)
-- [Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) ([Optifine](https://optifine.net/home))
-- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 - [Sodium](https://modrinth.com/mod/sodium)
-- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) ([Fairplay](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition))
+- [Xaero's Minimap (Fairplay Edition)](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition)
 - [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
 
 ### Library List
 
 This is the libraries/dependencies of mods that are in the modpack. These often do not add anything on their own, and as such will not have links attached to them. If you want me to add links to them, I would be happy to do so.
 
-- Architectury Fabric
-- Cloth Config
 - Fabric API
 
 ## Installation Instructions
