@@ -15,4 +15,4 @@ version = "nVR7Q63z"
 [option]
 default = false
 optional = true
-description = "Lithium is a performance mod that can be used alongside Sodium to improve performance. This may have less effect on multiplayer servers, but there might still be improvement, especially in singleplayer.\n\nIncompatible with:\n- Optifine (Optifine's invasive nature messes with Lithiums changes.)"
+description = "Server-side optimisation mod, however still providing some benefit when used on a client to join a non-integrated server."

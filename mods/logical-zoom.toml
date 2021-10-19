@@ -1,0 +1,20 @@
+name = "Logical Zoom"
+filename = "logical_zoom-0.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3379/216/logical_zoom-0.0.11.jar"
+hash-format = "murmur2"
+hash = "3376157784"
+
+[update]
+[update.curseforge]
+file-id = 3379216
+project-id = 356461
+release-channel = "beta"
+
+
+[option]
+default = false
+optional = true
+description = "A simple OptiFine-like zoom mod."

@@ -1,0 +1,19 @@
+name = "TRansliterationLib"
+filename = "TRansliterationLib-fabric-1.2.2-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3478/93/TRansliterationLib-fabric-1.2.2-1.17.1.jar"
+hash-format = "murmur2"
+hash = "2872366128"
+
+[update]
+[update.curseforge]
+file-id = 3478093
+project-id = 441024
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "Library mod"

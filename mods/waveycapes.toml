@@ -1,0 +1,19 @@
+name = "Wavey Capes"
+filename = "WaveyCapes-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3454/181/WaveyCapes-1.0.3.jar"
+hash-format = "murmur2"
+hash = "3855839502"
+
+[update]
+[update.curseforge]
+file-id = 3454181
+project-id = 521594
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "Makes capes be wavey!"

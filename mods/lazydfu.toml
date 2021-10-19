@@ -15,4 +15,4 @@ version = "C6e265zK"
 [option]
 default = false
 optional = true
-description = "Cuts down the game start time by a lot by removing the one thing that takes the longest time in vanilla: the Data Fixer Upper.\nIn short, the DFU is what controlls the conversion from old game versions to new game versions. The problem with this is that it then spends like 3 hours every game startup preparing for updating worlds from every game version, and then ends up not using it because you play on Autcraft and then nothing else.\nWith this, the game skips the DFU, and only loads it when you actually need to use it. It means you get a lag spike when loading a world that needs to be updated, but that's just the DFU initialising.\n\nI recommend you use this."
+description = "Startup optimisation mod, providing a significant speed-up in the time it takes to start the game by not compiling DataFixerUpper rules until they're actually needed."

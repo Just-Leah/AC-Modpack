@@ -1,0 +1,19 @@
+name = "First-person Model (Forge/Fabric)"
+filename = "FirstPersonMod-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3454/185/FirstPersonMod-2.0.3.jar"
+hash-format = "murmur2"
+hash = "4179290906"
+
+[update]
+[update.curseforge]
+file-id = 3454185
+project-id = 333287
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "Enables the third-person model in first-person, so you can see the game from the player's real perspective. ‼ DO NOT ENABLE FirstPerson Settings -> Cosmetics -> Change camera height. ‼"

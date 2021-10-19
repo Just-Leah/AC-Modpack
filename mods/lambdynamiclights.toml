@@ -15,4 +15,4 @@ version = "GiwO5rBh"
 [option]
 default = false
 optional = true
-description = "Ports the dynamic lights feature from optifine to soduim installs.\nIncompatible with optifine."
+description = "A dynamic lights mod. If you hold a torch, the area around you lights up!"
