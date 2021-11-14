@@ -1,19 +1,18 @@
 name = "Not Enough Animations (Forge/Fabric)"
-filename = "notenoughanimations-1.3.3.jar"
+filename = "notenoughanimations-fabric-1.4.0-mc1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3493/74/notenoughanimations-1.3.3.jar"
+url = "https://edge.forgecdn.net/files/3516/262/notenoughanimations-fabric-1.4.0-mc1.17.1.jar"
 hash-format = "murmur2"
-hash = "2883571632"
+hash = "3832242557"
 
 [update]
 [update.curseforge]
-file-id = 3493074
+file-id = 3516262
 project-id = 433760
 release-channel = "beta"
 
 [option]
-default = false
 optional = true
 description = "Adds some missing third-person animations that play in first-person and modifies some existing third-person animations to make them more accurate to how they're rendered in first-person."

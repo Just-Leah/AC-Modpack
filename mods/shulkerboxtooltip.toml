@@ -1,19 +1,18 @@
 name = "ShulkerBoxTooltip"
-filename = "shulkerboxtooltip-3.0.1+1.17.jar"
+filename = "shulkerboxtooltip-3.0.3+1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3402/342/shulkerboxtooltip-3.0.1+1.17.jar"
+url = "https://edge.forgecdn.net/files/3504/659/shulkerboxtooltip-3.0.3+1.17.1.jar"
 hash-format = "murmur2"
-hash = "2125823994"
+hash = "586173603"
 
 [update]
 [update.curseforge]
-file-id = 3402342
+file-id = 3504659
 project-id = 315811
 release-channel = "beta"
 
 [option]
-default = false
 optional = true
 description = "A mod allowing you to see everything that's inside a shulker box by hovering over it in an inventory instead of only seeing a small text list."

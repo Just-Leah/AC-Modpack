@@ -5,7 +5,7 @@ cSpell:word Autcraft HAHAHAHAHAHAHAHAHAHAHA
 
 # AC-Modpack
 
-Modpack for Autcraft that ~~tries it's hardest to follow~~ follows the approved mod list. Current version is [1.0.0](#changelogs)
+Modpack for Autcraft that ~~tries it's hardest to follow~~ follows the approved mod list. Current version is [1.0.1](#changelogs)
 
 ## Mod list
 
@@ -28,7 +28,7 @@ Any mod that is described as being a library mod. Recommended to download.
 
 ## Changelogs
 
-### 1.0.0: Release
+### 1.0.1: Release
 
 So I finally did it. After a few months of waiting for the mod list to be updated it got updated a week before writing this, and now I have updated the modpack I've been working on in the background. It should have most of the mods on it, and it shouldn't have any problems, but if anything is wrong don't hesitate to contact me about it.
 

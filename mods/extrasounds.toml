@@ -1,19 +1,18 @@
 name = "ExtraSounds"
-filename = "extra-sounds-1.4.1.jar"
+filename = "extrasounds-2.0.1+1.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3346/126/extra-sounds-1.4.1.jar"
+url = "https://edge.forgecdn.net/files/3520/272/extrasounds-2.0.1+1.17.jar"
 hash-format = "murmur2"
-hash = "2659952725"
+hash = "1102936236"
 
 [update]
 [update.curseforge]
-file-id = 3346126
+file-id = 3520272
 project-id = 478890
 release-channel = "beta"
 
 [option]
-default = false
 optional = true
 description = "Adds configurable sounds to the Minecraft UI for actions that are normally silent (such as changing hotbar slot or a message appearing in chat)."

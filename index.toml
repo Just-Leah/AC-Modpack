@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "3c1c30a5cd15bc6cc25ea847b70d8138ae2b509f8d47657650251249b0fd619f"
+hash = "0fab34a1da3edcbd743e5aa1e0e3d7d99dcd729321a93c6aa9c4c0b6b124cc06"
 metafile = true
 
 [[files]]
 file = "mods/blur-fabric.toml"
-hash = "64061a9a692db46f33c9d2ace96c8d91ce46b09a2aab15526ac9768ea72384c0"
+hash = "89effca4cdd774d6fc6876ac7e92948b9bcf5479e8121a570b81cbd3fb51d74f"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "b53d75dacd2f290530a3bc504d78abee9cf851a3753d13b5940c1ce3dd375d3d"
+hash = "8f5e854cf447bf23c8f1ff2e11c1101b3822b7cbe40a8bb61e4f0cd606f2ecb4"
 metafile = true
 
 [[files]]
@@ -42,17 +42,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "c9a690e64a6624ff8733ed5830422e8d7d188733e9059f4d1232a43fd9746cde"
+hash = "ba92fe92b4d4115adeae08e6722a42671e7dd93388bb8869139d2b29479eb641"
 metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "4409410ce75a4c6c76ef47c203cf2346203ccd747b279ea30ec8db6b6c0ea32c"
+hash = "6fad34ba57c034a4693ab179b2059f9aa52d13e01a8072671525db57ad590842"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "b4bba1bdcb611b334fae70cb57159443a26fa511420fab8f6d9ee84f9291b148"
+hash = "a578497c1a69fdf5a46d4f4c0d2b0f3428f2a24416a0be6ecabe8d3ce3fe1776"
 metafile = true
 
 [[files]]
@@ -62,17 +62,17 @@ metafile = true
 
 [[files]]
 file = "mods/extrasounds.toml"
-hash = "347e6b3ed7198228527145002c60496489b4939e9c4dc00645f774854e1ce330"
+hash = "fbe476a7921546a18eba1c18176fcfa5afa4d89bcb0ee26334eb65c473ecc387"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "82aade93254c82b70087b44a50fec3ba63470d65a1b92ebe829ea120f9815ff7"
+hash = "8feeb043e035d8daedb9ec77033731abb901849952fc88bc1fec76fe10c01da9"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.toml"
-hash = "69a49c07be9edfe094f6dbd477a2ba4d07f788363d747b4991efa12988e4d27e"
+hash = "e0753336ed587465cadb39dfd8ff143382e9db31f55804e49e72ced5b8249cae"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.toml"
-hash = "f93d9933eff13ec3d8624e97d0068b03549c8d01170885665258e8be0902cd03"
+hash = "9ec3d10ad1d41d9e5daf2f35692e87b03918e8b50147948473188e53ed90a555"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "04ba0333965819ec082e393e76408bd8be7f7d232b3eed62737bf4b627aa0533"
+hash = "7cbbfacaf4af653cb7ff4c5e9e2b3125afa1c302252024576f22f2ce489a88e2"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "da427e7f1ea3c1fefd0e1f302a210cf8a5de57978d085dd3d5b92ba3037a6833"
+hash = "3f951c921a4b6ba46a5afc41effd038cc654a7e1eaf274751111b53d6f8bf3d2"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.toml"
-hash = "89c4a825efa082a919451ad947952e3d29314f445a9d42eb06b08a764c9c523b"
+hash = "16cbd17945e77d315bc30a6765e39ee6a090e6fbace9d865001401cabae720e8"
 metafile = true
 
 [[files]]
@@ -192,17 +192,17 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "f733241d5fbfb355a84a2a8c1e30e0314f16c6513cbcc8aeda8c46339b6a0c3a"
+hash = "76c7b33265b6ff0ee60bd4f750389a8cb57c390602ec2004efa85dc9d80c9d69"
 metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "fc91ff1e405336e566f44a586700f3285fbded46fd0f830d3660e0f9cdbde2a6"
+hash = "ecde21aef927045816660bd29865ca86b62c43297a5cba141b5bb47e7bead3ed"
 metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-hash = "938631e39d0183578deedb235767d97ee39b69a0b0697091abd62f33661db937"
+hash = "7007f839004403ebac31c5264a61d0eea40c7bcfe2be0927d5206e460375de73"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/waveycapes.toml"
-hash = "7456379dce2ba8b80084414e97c6754b4ad3ff96ad6daf0085cb6e1d549aae74"
+hash = "5812915ad02cad704eefd8521a443263b191acb6c15f5c78dbfa865f66129cd6"
 metafile = true
 
 [[files]]
@@ -232,10 +232,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.toml"
-hash = "e3c5b1569fecde161a11f99c1b6f865b5481b066c0178195b71086d1a37eb8ba"
+hash = "c8b201699ee03ba7bcd3a01cb50a953b6192431aad301b3c6e54d0740015a74f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "51fa8d9d814bf517a9117fc01163cc3ddb281b4907ce3c7c8596a3c6636c8ef7"
+hash = "225a097c4ac43ba158d115986a2ced815fb79eb37303cd72b22e66c6e84f50aa"
 metafile = true

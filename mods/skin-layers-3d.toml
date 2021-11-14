@@ -1,19 +1,18 @@
 name = "Skin Layers 3D (Fabric/Forge)"
-filename = "3dSkinLayers-Fabric-1.1.1.jar"
+filename = "3dSkinLayers-Fabric-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3489/973/3dSkinLayers-Fabric-1.1.1.jar"
+url = "https://edge.forgecdn.net/files/3508/72/3dSkinLayers-Fabric-1.2.1.jar"
 hash-format = "murmur2"
-hash = "3763522784"
+hash = "1570446429"
 
 [update]
 [update.curseforge]
-file-id = 3489973
+file-id = 3508072
 project-id = 521480
 release-channel = "beta"
 
 [option]
-default = false
 optional = true
 description = "Renders the usually flat second layer of player skins as a 3D model."

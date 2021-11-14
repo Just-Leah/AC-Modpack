@@ -1,18 +1,17 @@
 name = "FabricSkyboxes"
-filename = "fabricskyboxes-1.17-0.5.2.jar"
+filename = "fabricskyboxes-1.17.1-0.5.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.2/fabricskyboxes-1.17-0.5.2.jar"
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.3/fabricskyboxes-1.17.1-0.5.3.jar"
 hash-format = "sha512"
-hash = "c776a5f8371dde1988213f00912923c74564b2459dfbfabbfd1f87738b3ae13fdc39ce762458bec312958a1584cc1b911215d7f5e550e02481498b6f5804e1c4"
+hash = "89dbf3658a41d6abfb0dc4a91618a1f59623052d4a45e9edd1587bc6544ffe5feb9111958e0b296ad994fcfe37aa6a7abd2f87478ddcf916c118452ef0a8bcc8"
 
 [update]
 [update.modrinth]
 mod-id = "YBz7DOs8"
-version = "QZ458aNV"
+version = "aY5ERIZf"
 
 [option]
-default = false
 optional = true
 description = "A mod allowing for custom skyboxes, allowing for pretty night skies instead of black with white dots. Uses its own format."
