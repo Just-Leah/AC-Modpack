@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/canvas-renderer.toml"
-hash = "cd743e18c4788d048ba6352bffb01c9e06a9d5cd4f6a52bd8a933a1d199aada3"
+hash = "ccb9973379deb1cf55ed4f3132bd64c27d986ef8ae4986137ffe703d2de608a9"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "76c7b33265b6ff0ee60bd4f750389a8cb57c390602ec2004efa85dc9d80c9d69"
+hash = "09e1d10a4a256196be85996bf31ab73bbda914adff7d44792994aae49bae255e"
 metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "ecde21aef927045816660bd29865ca86b62c43297a5cba141b5bb47e7bead3ed"
+hash = "e47e6add55aadf8c4df14db7b208a39d619b96198f5ef4d9051f4e7c054f41b9"
 metafile = true
 
 [[files]]
@@ -237,5 +237,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "225a097c4ac43ba158d115986a2ced815fb79eb37303cd72b22e66c6e84f50aa"
+hash = "bd3cbccd242614916bfa22a1182e3929a5040cce66f9150fe6bd817e38398e60"
 metafile = true
