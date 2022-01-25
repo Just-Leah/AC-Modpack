@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "8f5e854cf447bf23c8f1ff2e11c1101b3822b7cbe40a8bb61e4f0cd606f2ecb4"
+hash = "b5b29f2c829135870e6d074602a91db0ae9cb0e4e1344dba7ebb1d23469b57a2"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "6fad34ba57c034a4693ab179b2059f9aa52d13e01a8072671525db57ad590842"
+hash = "3560a976365684baf32fef8bb964ac48a13dea83cba64ebbbbbe999765266bb7"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.toml"
-hash = "bdadd4ad4be57fb1cc0a0293bb67c14704c20443c2794a575bb27eafdb7953a4"
+hash = "2df59408352baac72018dc6135de86237f26ca9a438cfe719d6a3f0b715ceeb0"
 metafile = true
 
 [[files]]
@@ -107,12 +107,17 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "0d93ef76499ba84357835fe9e1180d1241b26b3eb9c6d96afbf253cff20022b7"
+hash = "35944ac0602871076a4f888979420b159771fe452ca286537a839594e4643ba9"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "45c71e4358671afc1c7914a7f0e2aa02bf980b84545a657587fa9290daeef890"
+hash = "49579c5d8ef5f0a336f7d963c2944f04d3912234d107a7e3e9e23a7ae6dffe25"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "27318085c84d3acf07d75c333ef2c3babc732d22c94d387e9486c9c1819f9437"
 metafile = true
 
 [[files]]
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "17d8e4b9edcbf8dc818c8fe92d66416e15fa1b619ef55014500ac67765e3e1c6"
+hash = "b239dd8ff64019b6615135c5e9ce10949d4d7a304980abed694a2c19c966da80"
 metafile = true
 
 [[files]]
@@ -137,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "2e329179eff60a5343dab2b7f8af9a0a206463a411b7f708ed7c7b97f1802f15"
+hash = "765429935f8680c568bc21b2e518f9df7969eec45869285d72f0b0ebfd3e1a3f"
 metafile = true
 
 [[files]]
@@ -161,6 +166,11 @@ hash = "3f951c921a4b6ba46a5afc41effd038cc654a7e1eaf274751111b53d6f8bf3d2"
 metafile = true
 
 [[files]]
+file = "mods/minecraftcapes-mod.toml"
+hash = "af0d8abdd45d52da2ee70c6cb2aa140156bc2cec6a0b8a0c1fe70282400cfbc3"
+metafile = true
+
+[[files]]
 file = "mods/minihud.toml"
 hash = "645cfb51970ea7ed9c99ded313990d92b2d234cb296b6d26c87aba94de256a95"
 metafile = true
@@ -171,18 +181,28 @@ hash = "f6e326298d8b8324e328789cdc0d874dbf4e5107453180e08da9d375a642dff0"
 metafile = true
 
 [[files]]
+file = "mods/no-strip.toml"
+hash = "5bc885cd74aa0c972e5db612b72a45f65cf4398159ead470cf681a3f764d0479"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.toml"
 hash = "16cbd17945e77d315bc30a6765e39ee6a090e6fbace9d865001401cabae720e8"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "0341fb787df5cd2e60861cd380cae402377ab30d5021999e99cf66b6a2ca5944"
+hash = "218bef1cca123116204dce33a4d89f5732553d4c50ee8797f5741d2aea69555b"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "2d9288f2235edc7ae237beaa4081a8f76e0b855e39540134462ccf2ab9752c81"
 metafile = true
 
 [[files]]
 file = "mods/prettycapes.toml"
-hash = "c522dac4650f6f9e2ebdbd8f7845c6a51c426c1f7b9185208e883ecc627c851f"
+hash = "e9be7fb4e638db461e62f7e5c677296b2fffa3eff2c397019f3a2beebfbf33e1"
 metafile = true
 
 [[files]]
@@ -207,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "9e8e99f601d5cde3baf0f75fcc7ce5afaff9332faf5812b07e0c3cee506f5aa0"
+hash = "1a6ac56828a603a2da24d0f4a2ca0162a1171beaa80c6ea7aef8ce2ca1e2e00a"
 metafile = true
 
 [[files]]

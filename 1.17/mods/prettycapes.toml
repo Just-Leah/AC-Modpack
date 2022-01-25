@@ -1,0 +1,17 @@
+name = "Pretty Capes"
+filename = "prettycapes-1.3-1.18.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VNmsFeXY/versions/1.3/prettycapes-1.3-1.18.1.jar"
+hash-format = "sha512"
+hash = "ed79e39f72d015339f9a0e13ca52671da2e82329fc72e444384148140edf2bcffc949a0ab81f641e5a6251cb4c435d26384464e287862c672f6853cdbb6f9a07"
+
+[update]
+[update.modrinth]
+mod-id = "VNmsFeXY"
+version = "omvToyG0"
+
+[option]
+optional = true
+description = "Makes capes always render as their elytra version even if an elytra isn't being worn."

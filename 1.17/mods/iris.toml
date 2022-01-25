@@ -1,18 +1,17 @@
 name = "Iris Shaders"
-filename = "iris-and-sodium-mc1.17-1.1.2+build.9.jar"
+filename = "iris-mc1.17-1.2.0-pre.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com//data/YL57xq9U/versions/mc1.17.1-1.1.2/iris-and-sodium-mc1.17-1.1.2+build.9.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x/v1.2.0/iris-mc1.17-1.2.0-pre.jar"
 hash-format = "sha512"
-hash = "55a13a56c6eed76ab98fdce9bcf8f4dbaa66a2b09f6caf254fdd24ff4bd0f147542e380be9f854b85048848eaaa1d478beef84c3b8f4f271a345b529f312a161"
+hash = "2568a4e94093e780948b96e0722e1bae65a8298043b43e12a09cbce864c0875f5c306b1c4de227395f5ffcfc714bc9ed1931107a804487ad0b7230ab63423380"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "YwBoFV6P"
+version = "bQeFkabl"
 
 [option]
-default = false
 optional = true
 description = "Iris allows support for Optifine shaders without Optifine. This mod is less likely to cause imcompatibilities with mods, and uses Sodium for better performance than Optifine, with the trade off of less-than-optimal compatibility with Optifine shaders. Basically, it works good enough for most people, but isn't completely perfect.\nIncompatible with:\n- Sodium (Sodium is supplied with this mod, there is no need to select them both)\n- Optifine (Sodium is incompatible with Optifine, and never will be compatible. Also why'd you want to use Optifine and Iris at the same time?)"

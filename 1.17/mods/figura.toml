@@ -1,0 +1,17 @@
+name = "Figura"
+filename = "figura-0.0.7-1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B3csO4KD/versions/0.0.7-1.17/figura-0.0.7-1.17.jar"
+hash-format = "sha512"
+hash = "6e87cee5b1fd8fce8a471af4ebc4c5f5b601d4771b1198b7b27a8c26a4e8862ce3b9d9a869ef79d9b18882b7594e87452cbcb7e14b93f26a50f228ddf43e0abe"
+
+[update]
+[update.modrinth]
+mod-id = "B3csO4KD"
+version = "8DlKP4oi"
+
+[option]
+optional = true
+description = "A mod allowing for extensive customisation of Minecraft player models."

@@ -1,0 +1,19 @@
+name = "Item Model Fix (Fabric)"
+filename = "item-model-fix-1.0.3+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/934/item-model-fix-1.0.3+1.17.jar"
+hash-format = "murmur2"
+hash = "1552145467"
+
+[update]
+[update.curseforge]
+file-id = 3573934
+project-id = 399798
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "A small graphical-enhancement mod that fixes the tiny gaps in item models."
