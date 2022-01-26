@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-model-fix.toml"
-hash = "27318085c84d3acf07d75c333ef2c3babc732d22c94d387e9486c9c1819f9437"
+hash = "1b99b300705fd10416718239aa3972ffd8e3808bd52ab3bc177a19f77bc7246e"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.toml"
-hash = "2d9288f2235edc7ae237beaa4081a8f76e0b855e39540134462ccf2ab9752c81"
+hash = "e74b1bcbd2c864232943acbfb94356625aa797884bedf9476b93e27467441661"
 metafile = true
 
 [[files]]

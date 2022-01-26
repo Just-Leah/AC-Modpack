@@ -3,9 +3,9 @@
 cSpell:word Autcraft HAHAHAHAHAHAHAHAHAHAHA
 -->
 
-# AC-Modpack
+# AC-Modpack 1.17
 
-Modpack for Autcraft that ~~tries it's hardest to follow~~ follows the approved mod list. Current version is [1.0.2](#changelogs)
+Modpack for Autcraft that ~~tries it's hardest to follow~~ follows the approved mod list. Current 1.17 version is `1.17-1.1.0`.
 
 ## Mod list
 
