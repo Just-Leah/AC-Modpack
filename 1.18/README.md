@@ -5,7 +5,7 @@ cSpell:word Autcraft HAHAHAHAHAHAHAHAHAHAHA
 
 # AC-Modpack 1.18
 
-Modpack for Autcraft that follows the approved mod list. Current 1.18 version is `1.18-1.0.0`.
+Modpack for Autcraft that follows the approved mod list. Current 1.18 version is `1.18-1.0.1`.
 
 ## Mod list
 
