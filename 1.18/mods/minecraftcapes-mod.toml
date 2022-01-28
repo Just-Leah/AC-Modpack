@@ -1,0 +1,19 @@
+name = "MinecraftCapes Mod"
+filename = "MinecraftCapes Fabric 1.18.1-12.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3574/423/MinecraftCapes Fabric 1.18.1-12.0.2.jar"
+hash-format = "murmur2"
+hash = "379756745"
+
+[update]
+[update.curseforge]
+file-id = 3574423
+project-id = 359836
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "A cape mod letting you add custom capes to your Minecraft character."

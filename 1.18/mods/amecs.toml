@@ -1,0 +1,19 @@
+name = "Amecs (Fabric)"
+filename = "amecs-1.3.4+mc.1.18-pre1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3523/240/amecs-1.3.4+mc.1.18-pre1.jar"
+hash-format = "murmur2"
+hash = "1702639856"
+
+[update]
+[update.curseforge]
+file-id = 3523240
+project-id = 324564
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "Allows you to have more control over your keybinds."

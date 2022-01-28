@@ -1,0 +1,19 @@
+name = "AdvancedChatBox"
+filename = "AdvancedChatBox-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3591/924/AdvancedChatBox-1.1.2.jar"
+hash-format = "murmur2"
+hash = "4044510145"
+
+[update]
+[update.curseforge]
+file-id = 3591924
+project-id = 541714
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "A mod overhauling Minecraft chat allowing for extensive customisation, such as alternating line colours for chat messages, having multiple chat boxes, chat filtering, and much more.\n\nREQUIREMENTS AND NOTES\n- Requires AdvancedChatCore\n- This mod is split up into modules, this is the core module. Infomation from the mod author is as follows:\n- 'AdvancedChatBox allows for complex suggestions and tab completion to be added into the Minecraft chat box.'"

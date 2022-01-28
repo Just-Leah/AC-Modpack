@@ -1,3 +1,5 @@
+<!-- @format -->
+
 # AC-Modpack
 
 Modpack for Autcraft that follows the approved mod list. Here are the respective version pages, it is recommended to go to them for further infomation.

@@ -1,0 +1,19 @@
+name = "AdvancedChatFilters"
+filename = "AdvancedChatFilters-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/589/AdvancedChatFilters-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3078772400"
+
+[update]
+[update.curseforge]
+file-id = 3573589
+project-id = 539122
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "A mod overhauling Minecraft chat allowing for extensive customisation, such as alternating line colours for chat messages, having multiple chat boxes, chat filtering, and much more.\n\nREQUIREMENTS AND NOTES\n- Requires AdvancedChatCore\n- This mod is split up into modules, this is the core module. Infomation from the mod author is as follows:\n- 'AdvancedChatFilters allows for complex manipulation of incoming chat messages.'"

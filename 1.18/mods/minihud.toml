@@ -1,0 +1,19 @@
+name = "MiniHUD"
+filename = "minihud-fabric-1.18.1-0.21.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3619/950/minihud-fabric-1.18.1-0.21.3.jar"
+hash-format = "murmur2"
+hash = "2919762916"
+
+[update]
+[update.curseforge]
+file-id = 3619950
+project-id = 244260
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "Adds a customisable \"mini-F3\" screen, with many additional render options showing things like light levels or holographical spheres. \n\n-=WARNING=-\nIf you use this mod, you are not allowed to use the debug water renderer (enabled with Config -> Renderer Hotkeys -> debugWaterEnabled)."

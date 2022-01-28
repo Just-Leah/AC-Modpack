@@ -1,0 +1,19 @@
+name = "Xaero's Minimap (Fair-play Edition)"
+filename = "Xaeros_Minimap_FP22.1.0_Fabric_1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3625/450/Xaeros_Minimap_FP22.1.0_Fabric_1.18.jar"
+hash-format = "murmur2"
+hash = "1318609532"
+
+[update]
+[update.curseforge]
+file-id = 3625450
+project-id = 263466
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "Map mod that works together with Xaero's World Map. They map out the area around you in real-time and let you set waypoints to remember locations.\n\n-=WARNING=-\NDo not use this in competitive minigames such as bed wars and H&S."

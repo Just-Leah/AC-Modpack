@@ -1,0 +1,15 @@
+name = "AC-Modpack 1.18"
+author = "Leah (Just__a__Goat/Stonewall0210)"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2e886426651d6efda4b02037286ba080d233ddc985a7383b21be33991024f14f"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18"]

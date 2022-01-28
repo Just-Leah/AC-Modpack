@@ -1,0 +1,19 @@
+name = "Canvas Renderer"
+filename = "canvas-fabric-mc118-1.0.2282.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3601/221/canvas-fabric-mc118-1.0.2282.jar"
+hash-format = "murmur2"
+hash = "1150853737"
+
+[update]
+[update.curseforge]
+file-id = 3601221
+project-id = 318440
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "An alternative shader and optimisation mod, incompatible with Sodium and Iris."

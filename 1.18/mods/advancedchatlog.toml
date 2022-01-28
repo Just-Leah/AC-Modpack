@@ -1,0 +1,19 @@
+name = "AdvancedChatLog"
+filename = "AdvancedChatLog-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/542/AdvancedChatLog-1.1.1.jar"
+hash-format = "murmur2"
+hash = "1540951845"
+
+[update]
+[update.curseforge]
+file-id = 3573542
+project-id = 541100
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "A mod overhauling Minecraft chat allowing for extensive customisation, such as alternating line colours for chat messages, having multiple chat boxes, chat filtering, and much more.\n\nREQUIREMENTS AND NOTES\n- Requires AdvancedChatCore\n- This mod is split up into modules, this is the core module. Infomation from the mod author is as follows:\n- 'AdvancedChatLog lets you view and search through the chat history, beyond what Minecraft usually lets you view'"

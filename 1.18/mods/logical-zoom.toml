@@ -1,0 +1,19 @@
+name = "Logical Zoom"
+filename = "logical_zoom-0.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3557/320/logical_zoom-0.0.13.jar"
+hash-format = "murmur2"
+hash = "1271290967"
+
+[update]
+[update.curseforge]
+file-id = 3557320
+project-id = 356461
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "A simple OptiFine-like zoom mod.\n\nREQUIREMENTS\n- Fabric API"

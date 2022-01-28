@@ -1,0 +1,19 @@
+name = "AdvancedChatCore"
+filename = "AdvancedChatCore-1.3.3-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3591/739/AdvancedChatCore-1.3.3-1.18.jar"
+hash-format = "murmur2"
+hash = "3455529614"
+
+[update]
+[update.curseforge]
+file-id = 3591739
+project-id = 537853
+release-channel = "beta"
+
+[option]
+default = false
+optional = true
+description = "A mod overhauling Minecraft chat allowing for extensive customisation, such as alternating line colours for chat messages, having multiple chat boxes, chat filtering, and much more.\n\nREQUIREMENTS AND NOTES\n- Requires MaLiLib\n- This mod is split up into modules, this is the core module. Infomation from the mod author is as follows:\n- 'This mod primarily adds internal features used by other modules, filter out profanity from chat, and adds the ability to display the time that a message was sent.'"
