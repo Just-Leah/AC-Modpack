@@ -17,7 +17,9 @@ Although, some mods are not updated to 1.18 yet, a list of such mods is containe
   <summary>Outdated mods</summary>
 
 - Hydrogen
+
 - Connected Block Textures
+
 - ConnectedTexturesMod Fabric
 
 </details>
@@ -26,7 +28,7 @@ Please note that some mods have lists of required/incompatible mods. These are n
 
 ## Installation Instructions
 
-1. [Download the ZIP file linked to this line](AC-Modpack.zip)
+1. [Download the ZIP file linked to this line](1.18-AC-Modpack.zip)
 2. Install/make sure you have installed [MultiMC](https://multimc.org/)
 3. When you have installed MultiMC, open it
 4. Drag the ZIP file you installed into the window.

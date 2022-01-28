@@ -16,4 +16,4 @@ release-channel = "beta"
 [option]
 default = false
 optional = true
-description = "Map mod that works together with Xaero's World Map. They map out the area around you in real-time and let you set waypoints to remember locations.\n\n-=WARNING=-\NDo not use this in competitive minigames such as bed wars and H&S."
+description = "Map mod that works together with Xaero's World Map. They map out the area around you in real-time and let you set waypoints to remember locations.\n\n-=WARNING=-\nDo not use this in competitive minigames such as bed wars and H&S."

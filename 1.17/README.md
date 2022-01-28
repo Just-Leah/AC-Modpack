@@ -17,7 +17,7 @@ Any mod that is described as being a library mod. Recommended to download.
 
 ## Installation Instructions
 
-1. [Download the ZIP file linked to this line](AC-Modpack.zip)
+1. [Download the ZIP file linked to this line](1.17-AC-Modpack.zip)
 2. Install/make sure you have installed [MultiMC](https://multimc.org/)
 3. When you have installed MultiMC, open it
 4. Drag the ZIP file you installed into the window.
